@@ -12,19 +12,14 @@
 
 
 
+### **Project Overview: Basic Python Calculator**
 
-
-**Project Overview: Basic Python Calculator**
-
-
-
-**Project Description**  
+#### **Project Description**  
 The goal of this project is to create a simple Python program that functions as a **basic calculator**. It allows users to perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division. The program interacts with the user via the terminal, taking inputs, processing them, and returning the result.
 
+---
 
-
-
-**Features**
+#### **Features**
 1. **Input Prompting**  
    - The program prompts the user to enter two numbers (**operands**) and a mathematical operation (e.g., `+`, `-`, `*`, `/`, `%`).
 
@@ -43,10 +38,9 @@ The goal of this project is to create a simple Python program that functions as 
 4. **Output**  
    - The result of the selected operation is displayed to the user in a clear format.
 
+---
 
-
-
-**Code Workflow**
+#### **Code Workflow**
 1. **User Input**  
    - Prompt the user to input two numbers (`operand_1` and `operand_2`).  
    - Prompt the user to choose an operation.
@@ -61,11 +55,12 @@ The goal of this project is to create a simple Python program that functions as 
 4. **Output Result**  
    - Display the computed result or appropriate error messages to the user.
 
+---
 
-
-
-**Key Code Highlights**
+#### **Key Code Highlights**
 - **Try-Except Block:** Ensures robustness by catching invalid number inputs.  
 - **Conditionals:** Determines the operation and handles edge cases like division by zero.  
 - **User-Friendly Output:** Results are displayed in a readable format.
-  
+
+
+

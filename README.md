@@ -11,10 +11,16 @@
 **Mentor:** Sravani Gouni
 
 
+
+
+
 **Project Overview: Basic Python Calculator**
+
+
 
 **Project Description**  
 The goal of this project is to create a simple Python program that functions as a **basic calculator**. It allows users to perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division. The program interacts with the user via the terminal, taking inputs, processing them, and returning the result.
+
 
 
 
@@ -39,6 +45,7 @@ The goal of this project is to create a simple Python program that functions as 
 
 
 
+
 **Code Workflow**
 1. **User Input**  
    - Prompt the user to input two numbers (`operand_1` and `operand_2`).  
@@ -53,6 +60,7 @@ The goal of this project is to create a simple Python program that functions as 
 
 4. **Output Result**  
    - Display the computed result or appropriate error messages to the user.
+
 
 
 

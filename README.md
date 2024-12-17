@@ -1,14 +1,21 @@
-Name: Devasri K
-Company: CODTECH IT SOLUTIONS
-ID: CT0806AJ
-Domain: Python programming
-Duration: December 12,2024 - January 2,2025
-Mentor: Sravani Gouni
+**Name:** Devasri K
+
+**Company:** CODTECH IT SOLUTIONS
+
+**ID:** CT0806AJ
+
+**Domain:** Python programming
+
+**Duration:** December 12,2024 - January 2,2025
+
+**Mentor:** Sravani Gouni
+
 
 **Project Overview: Basic Python Calculator**
 
 **Project Description**  
 The goal of this project is to create a simple Python program that functions as a **basic calculator**. It allows users to perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division. The program interacts with the user via the terminal, taking inputs, processing them, and returning the result.
+
 
 
 **Features**
@@ -31,6 +38,7 @@ The goal of this project is to create a simple Python program that functions as 
    - The result of the selected operation is displayed to the user in a clear format.
 
 
+
 **Code Workflow**
 1. **User Input**  
    - Prompt the user to input two numbers (`operand_1` and `operand_2`).  
@@ -45,6 +53,7 @@ The goal of this project is to create a simple Python program that functions as 
 
 4. **Output Result**  
    - Display the computed result or appropriate error messages to the user.
+
 
 
 **Key Code Highlights**

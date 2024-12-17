@@ -17,7 +17,7 @@
 #### **Project Description**  
 The goal of this project is to create a simple Python program that functions as a **basic calculator**. It allows users to perform fundamental arithmetic operations such as addition, subtraction, multiplication, and division. The program interacts with the user via the terminal, taking inputs, processing them, and returning the result.
 
-**Output:**
+
       ![image](https://github.com/user-attachments/assets/ee9b5134-5363-4bf5-b342-03e12f207ec4)
 
 ---

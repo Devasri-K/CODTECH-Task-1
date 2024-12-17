@@ -1,0 +1,23 @@
+operand_1 = int(input("Enter operand 1: "))
+operand_2 = int(input("Enter operand 2: "))
+operation = input("Enter operation: ")
+
+try:
+    if operation == '+':
+        result = operand_1 + operand_2
+    elif operation == '-':
+        result = operand_1 - operand_2
+    elif operation == '*':
+        result = operand_1 * operand_2
+    elif operation == '/':
+        if operand_2 != 0:
+            result = operand_1 / operand_2
+        else:
+            result = "Error: Division by zero"
+    elif operation == '%':
+        result = operand_1 % operand_2
+    else:
+        result = "Invalid operation"
+    print("Result: {}".format(result))
+except ValueError:
+    print("Error: Please enter valid numbers.")
